@@ -1,0 +1,5 @@
+== gaming
+
+Notes, build plans, and reference docs for games.
+
+=== Contents

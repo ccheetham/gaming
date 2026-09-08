@@ -1,0 +1,3 @@
+== Diablo
+
+* link:Sorcerer Build Guide/[`Sorcerer Build Guide/`] — Diablo 1. Sorcerer build plan.

@@ -1,0 +1,108 @@
+== Diablo 1 — Sorcerer
+
+A single-player build plan for the original *Diablo* (1996). Class: *Sorcerer*. No difficulty tiers here (that's a D2/D4 thing) — the whole game is one playthrough down through dungeon level 16.
+
+____
+Knowledge current to ~September 2026, but the game itself hasn't changed in decades so this ages fine. Written for vanilla Diablo; a quick note on the Hellfire expansion is included but not the main focus. Cross-check specific unique-item stats against a current source if something looks off — old wikis disagree with each other constantly.
+____
+
+'''''
+
+=== Why this build
+
+* Highest ceiling in the game: once *Mana Shield* is online, the Sorcerer takes almost no real damage and out-damages everyone else too.
+* Genuinely the hardest class to *start* — 30 HP at level 1 means a bad pull can one-shot you before you have any tools. Rewarding once past that.
+* Every class can learn every spell (if Magic-stat-eligible), but the Sorcerer needs the least Magic to learn and cast any given spell — cheapest access to the whole spellbook.
+* Good solo class: ranged damage keeps you out of melee range, which is where a Sorcerer dies.
+
+'''''
+
+=== Starting stats
+
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+|===
+|Strength |Magic |Dexterity |Vitality |Life / Mana
+|15 |35 |15 |20 |30 / 70
+|===
+
+* *Stat priority: Magic, full stop.* Don't spread points. A few early Vitality points are fine if you're dying a lot before you get Mana Shield, but every point after that goes into Magic.
+* *Life per level up:* +1 per point of Vitality, +1 flat per character level.
+* *Mana per level up:* +2 per point of Magic, +2 flat per character level. This is why stacking Magic compounds — it grows both your damage and your effective HP pool via Mana Shield.
+* Soft caps without gear: Strength 45, Magic 250, Dexterity 85, Vitality 80. You will not hit most of these through leveling alone — gear (rings, amulets, "`of Wizardry`"/"`of the Zodiac`" affixes) pushes Magic well past 250 in practice.
+* Only put Strength into just enough to wear the armor/weapon you actually want equipped; don't invest further.
+
+'''''
+
+=== Early game (dungeon levels 1–4, the Cathedral)
+
+This is the dangerous part. 30 HP does not forgive mistakes.
+
+* *Buy or find a staff with charges* (Firebolt or Charged Bolt is ideal) and right-click to attack with it. Staff charges don't cost mana, so this is free ranged damage while your own mana pool is tiny.
+* Pull one or two enemies at a time into corridors; never fight in an open room at low level.
+* Grab *Infravision* early if you find/can afford the book — cheap, and seeing monsters through walls in the dark early levels is a real survivability tool.
+* *The Butcher* is hiding in a small side room on level 2 ("`Fresh Meat`" message) — he hits like a truck at this level. Snipe him with the staff/Firebolt from the doorway, don't melee him.
+* *The Skeleton King (Leoric)* is down a sub-level off the Cathedral, around level 3–4. Kite and use corridors — a horde of skeletons plus the King himself will swarm you in the open room he's in.
+* Priority spells to learn as books drop: *Firebolt* → *Mana Shield* → *Fireball*. Mana Shield is the single biggest survivability upgrade in the game for this class — get it as soon as you have the Magic to cast it and prioritize it over damage spells if you're struggling.
+
+'''''
+
+=== Spell priority (rough order to pick up / lean on)
+
+[width="100%",cols="25%,75%",options="header",]
+|===
+|Spell |Why
+|*Firebolt* |Cheap early damage, spammable off a staff before you have mana to spare
+|*Mana Shield* |Converts incoming damage into mana loss instead of life loss. Get this ASAP — it's what turns the Sorcerer from fragile into nearly untouchable
+|*Fireball* |Your main clear spell for a long stretch — good AoE splash on packed groups
+|*Chain Lightning* |Bounces between multiple enemies in a wide radius; scales hard with level and becomes the best crowd-clear in the game once a few points in
+|*Stone Curse* |Turns a single tough enemy (including uniques/bosses) to stone temporarily — free hits, or a panic button to lock down something that's about to kill you
+|*Teleport* |Short-range blink through walls/obstacles. Core kiting tool for the "`teleport in, Chain Lightning, teleport out`" loop late game
+|*Golem* |Summons a stone golem that deals physical damage — your answer to monsters immune to your elemental spells
+|===
+
+Learn both a fire spell and a lightning spell early — plenty of monsters resist one or the other, and you'll want an answer for both.
+
+'''''
+
+=== Mid game (Catacombs 5–8, Caves 9–12)
+
+* By now Mana Shield should be up and Fireball/Chain Lightning doing the clearing. This is where the class starts feeling strong instead of scary.
+* Watch for magic-immune monsters (some enemies in the Caves and Hell resist all elemental damage) — this is what Golem and a decent melee weapon are for. Keep a solid one-hander on hand even as a caster.
+* Keep buying/identifying staves — a staff of your main damage spell with high charges is still free damage on top of your mana-based casting.
+* Ogden (innkeeper) has a quest thread involving his missing wife around the Caves — worth doing for the item/XP reward as you pass through.
+
+'''''
+
+=== Late game (Hell, levels 13–16)
+
+* *Lazarus* is found deep in this stretch (around level 15) — he lures you with a fake rescue setup. He and the enemies around him hit hard; Stone Curse him or kite with Teleport + Chain Lightning rather than standing and trading.
+* *Diablo* himself is level 16. Standard approach: keep Mana Shield up at all times, use Teleport to reposition instead of walking (he has a strong charge/aura), and lean on Chain Lightning or Fireball for damage while circle-kiting. Bring enough mana/rejuvenation potions to never let Mana Shield lapse mid-fight.
+* Target numbers before the Diablo fight: Mana Shield active, a mana pool in the several-hundreds (400+ is workable, 600+ is comfortable), and Magic gear stacked so your damage spells are still hitting hard at this depth.
+
+'''''
+
+=== Itemization priorities
+
+[arabic]
+. *A staff with charges of your main attack spell* — free damage while your mana pool is still small early on.
+. *Anything with a `+Magic` or `+Mana` affix* — "`of Wizardry`" (Magic), "`of the Zodiac`" (all stats + mana), "`of Brilliance`" (shields), "`of Sorcery`" (armor) are the suffixes/prefixes to watch for while shopping Griswold/Wirt/Adria or identifying drops.
+. *A resist-all piece* once you're diving Hell — spellcasters in the late dungeon hit multiple elements and it adds up.
+. *Known strong uniques to grab if you see them:* *Thinking Cap* and *Dreamflange* both grant bonus spell levels directly from the item (not just off staff charges) plus Magic; *Naj's Light Plate* adds Magic and faster casting; a *King's Bastard Sword of Haste* or similar fast weapon is worth keeping equipped for the magic-immune fights even as a full caster.
+. Keep a spare low-strength-requirement melee weapon and a shield around for when you're out of mana and staff charges — it happens.
+
+'''''
+
+=== Hellfire expansion note
+
+If you're playing the *Diablo: Hellfire* expansion rather than vanilla, the Sorcerer gains extra spells (*Nova*, *Apocalypse*, and others) plus new areas (the Nest, the Crypt) with their own uniques and a level cap increase. The core stat/spell priorities above still hold — Magic first, Mana Shield ASAP — but treat the expansion content as a separate research pass since the itemization and endgame targets shift once those areas and spells are in play.
+
+'''''
+
+=== Checklist before diving Hell (levels 13–16)
+
+* [ ] Mana Shield learned and kept active in every fight.
+* [ ] Mana pool comfortably in the hundreds (400+ minimum).
+* [ ] Both a fire and a lightning damage spell available for resistant enemies.
+* [ ] Golem or a real melee weapon on hand for magic-immune monsters.
+* [ ] A stash of mana/rejuvenation potions — running dry mid-fight against Diablo is how Sorcerers die late.
+* [ ] Stone Curse learned for emergency lockdown on a dangerous unique or boss.
